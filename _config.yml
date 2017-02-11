@@ -1,0 +1,33 @@
+# Dependencies
+# markdown:         redcarpet
+highlighter:      pygments
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            "馬丁"
+tagline:          "筆記"
+description:      "熱愛程式寫作"
+url:              https://matin5.github.com
+baseurl:          /
+
+author:
+  name:           "Martin Wu"
+  url:            https://matin5.github.com
+
+paginate:         5
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           https://github.com/matin5
+
+# Gems
+gems: [jekyll-paginate, jekyll-gist]
