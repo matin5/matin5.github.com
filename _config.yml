@@ -1,7 +1,8 @@
 # Dependencies
-# markdown:         redcarpet
-# highlighter:      pygments
+markdown:         kramdown
 highlighter:      rouge
+redcarpet:
+  extensions : ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 
 # kramdown:
 #   input: GFM
@@ -9,12 +10,11 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-#relative_permalinks: true
 
 # Setup
 title:            "馬丁"
 tagline:          "筆記"
-description:      "熱愛程式寫作"
+description:      "程式筆記"
 url:              https://matin5.github.com
 baseurl:          /
 
