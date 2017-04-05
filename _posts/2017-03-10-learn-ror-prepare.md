@@ -5,7 +5,7 @@ subtitle   : "RoR 學習筆記 1"
 date       : 2017-03-10 10:30
 author     : "Martin Wu"
 tags       : Rails RVM
-#comments   : true
+comments   : true
 #signature  : true
 ---
 記錄一下自學 RoR 的過程。

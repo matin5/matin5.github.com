@@ -2,10 +2,10 @@
 layout     : post
 title      : "語法測試"
 subtitle   : "測試 Jekyll 支援 Syntax Highligh"
-#date       : 2015-02-02 11:01:00
+date       : 2017-02-11 11:01:00
 author     : "Martin Wu"
 tags       : Syntax
-#comments   : true
+comments   : true
 #signature  : true
 ---
 
